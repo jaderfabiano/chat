@@ -9,3 +9,13 @@ Dependências
   3. LibEvent: sudo apt-get install libevent-dev
   4. redis-py: sudo pip install redis
   5. Make para compilar o server
+
+
+Exemplo:
+  server --chat
+  
+  Na mesma máquina ou em uma máquina remota. Execute o client.
+  
+  python client --ip '127.0.0.1' --port 8567
+  
+  Começe a trocar mensagens... :)
