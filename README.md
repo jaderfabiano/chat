@@ -20,6 +20,8 @@ Simula um chat entre duas aplicações via console. Servidor desenvolvido em C e
   *python client --ip '127.0.0.1' --port 8567*
   
   Comece a trocar mensagens... :)
+  
+  A palavra **"fim"** finaliza a troca de mensagens e encerra as aplicações.
 
 
 
