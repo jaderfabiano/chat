@@ -16,11 +16,9 @@ class TestStart(unittest.TestCase):
 	def testNumberArgumentsWrong(self):
 		self.assertFalse(self.start.checkNumberArguments(4))
 		
-	def numberArgumentOks(self):
+	def testNumberArgumentOks(self):
 		self.assertTrue(self.start.checkNumberArguments(5))
 
-	def initConnection(self):
-		self.assertRaises(self.start.app())
 
 
 if __name__ == "__main__":
