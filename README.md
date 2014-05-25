@@ -12,6 +12,7 @@ Dependências
 
 
 Exemplo:
+
   server --chat
   
   Na mesma máquina ou em uma máquina remota. Execute o client.
