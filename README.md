@@ -13,13 +13,13 @@ Simula um chat entre duas aplicações via console. Servidor desenvolvido em C e
 
 **Exemplo:**
 
-  server --chat
+  *server --chat*
   
   Na mesma máquina ou em uma máquina remota. Execute o client.
   
-  python client --ip '127.0.0.1' --port 8567
+  *python client --ip '127.0.0.1' --port 8567*
   
-  Começe a trocar mensagens... :)
+  Comece a trocar mensagens... :)
 
 
 
