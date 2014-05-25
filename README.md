@@ -8,4 +8,4 @@ Dependências
   2. Hiredis: disponível em https://github.com/redis/hiredis
   3. LibEvent: sudo apt-get install libevent-dev
   4. redis-py: sudo pip install redis
-  5. Make
+  5. Make para compilar o server
