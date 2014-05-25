@@ -19,3 +19,13 @@ Exemplo:
   python client --ip '127.0.0.1' --port 8567
   
   Começe a trocar mensagens... :)
+
+
+
+
+
+TODO:
+  Remover warnings de compilação no server.
+  
+  
+  Adicionar integração com o gtalk.
