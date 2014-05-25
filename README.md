@@ -1,8 +1,8 @@
-Chat
+**Chat**
 
 Simula um chat entre duas aplicações via console. Servidor desenvolvido em C e o cliente em Python. Utiliza o PubSub do Redis.
 
-Dependências
+**Dependências**
 
   1. Redis: disponível em http://redis.io/
   2. Hiredis: disponível em https://github.com/redis/hiredis
@@ -11,7 +11,7 @@ Dependências
   5. Make para compilar o server
 
 
-Exemplo:
+**Exemplo:**
 
   server --chat
   
@@ -25,7 +25,7 @@ Exemplo:
 
 
 
-TODO:
+**TODO:**
 
   Remover warnings de compilação no server.
   
